@@ -1,0 +1,355 @@
+/*====================== Extra small devices 
+================================================================*/
+@media (max-width: 575.98px) {
+
+/*========== Navbar part start ==========*/
+.navbar-light .navbar-toggler {
+	color: #000;
+    border: 0;
+}
+.navbar-toggler {
+	background-color: transparent;
+    font-size: 24px;
+}
+.navbar-light .navbar-nav .nav-link::after {
+	display: none;
+}
+.fa.fa-bars {
+	color: #fff;
+}
+.bg .fa.fa-bars {
+    color: #000;
+}
+.navbar-nav .nav-item {
+	background: #413e3e;
+}
+.bg .navbar-nav .nav-item {
+	background: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    text-align: center;
+}
+.sm-logo{
+    display: none;
+}
+/*=========== Banner part start ===========*/
+.banner-item {
+	padding-top: 0;
+}
+.banner-item h1 {
+    font-size: 26px;
+    text-align: center;
+}
+.banner-item h3 {
+	font-size: 22px;
+}
+#banner {
+	padding-bottom: 24px;
+}
+#banner {
+	padding-top: 140px;
+	padding-bottom: 40px;
+}
+/*=========== About part start ===========*/
+#about {
+    padding-top: 60px;
+	padding-bottom: 0;
+}    
+.about-btn {
+	margin-top: 1px;
+	margin-bottom: 40px;
+}
+.main-header::after {
+    top: -7px;
+	width: 122px;
+	height: 50px;
+}
+.about-btn a {
+    margin-bottom: 81px;
+}
+.skill_hadding h3 {
+	padding-bottom: 60px;
+}
+/*=========== Service part start ===========*/
+#service {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+#service:after {
+    clip-path: none;
+}
+.headding h2 {
+	font-size: 27px;
+}
+.service-header::after {
+    top: -7px;
+	width: 158px;
+	height: 50px;
+}
+    
+/*=========== portfolio part start ===========*/
+#portfolio {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.portfolio-header::after {
+	top: -7px;
+	width: 124px;
+	height: 50px;
+}
+.nav-link {
+	margin-bottom: 20px;
+}
+.counter-item {
+	padding-bottom: 40px;
+}
+.about-counter {
+	padding-top: 40px;
+	padding-bottom: 0;
+}
+/*=========== Blog part start ===========*/
+#blog {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.blog-header::after {
+	top: -7px;
+	width: 134px;
+	height: 50px;
+}
+.blog-content p {
+	text-align: center;
+/*=========== Contact part start ===========*/
+}
+#contact {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+#contact:after {
+    clip-path: none;
+}
+.contact-header::after {
+	top: -7px;
+	width: 114px;
+	height: 50px;
+}
+.fotter-pra p {
+	padding-right: 25px;
+}   
+.blog-content p {
+	word-spacing: -1px;
+}    
+.blog-content {
+	padding: 14px;
+}   
+.socials a i {
+	font-size: 22px;
+}    
+    
+}
+
+/*=========================== Small devices 
+=======================================================================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*========== Navbar part start ==========*/
+.navbar-light .navbar-toggler {
+	color: #000;
+    border: 0;
+}
+.navbar-toggler {
+	background-color: transparent;
+    font-size: 24px;
+}
+.navbar-light .navbar-nav .nav-link::after {
+	display: none;
+}
+.fa.fa-bars {
+	color: #fff;
+}
+.bg .fa.fa-bars {
+    color: #000;
+}
+.navbar-nav .nav-item {
+	background: #413e3e;
+}
+.bg .navbar-nav .nav-item {
+	background: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    text-align: center;
+}
+.sm-logo{
+    display: none;
+}
+/*=========== banner part start ===========*/
+#banner {
+	padding-bottom: 24px;
+}
+.about-slid a {
+    position: relative;
+    top: -70px;
+    left: 0;
+}
+.banner-item a {
+	margin-bottom: 30px;
+}
+.banner-item {
+	padding-top: 0;
+	margin-top: 80px;
+}
+/*=========== about part start ===========*/
+#about {
+    padding-top: 60px;
+	padding-bottom: 0;
+}    
+.about-btn {
+	margin-top: 1px;
+	margin-bottom: 40px;
+}
+.about-btn a {
+	margin-bottom: 81px;
+}
+.skill_hadding h3 {
+	padding-bottom: 60px;
+}
+/*=========== service part start ===========*/
+#service {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+/*=========== portfolio part start ===========*/
+#portfolio {
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+.counter-item {
+	padding-bottom: 40px;
+}
+/*=========== blog part start ===========*/
+#blog {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+#contact {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.blog-content p {
+	text-align: center;
+}
+
+}
+
+/*============================ Medium devices 
+=========================================================================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*========== Navbar part start ==========*/
+.navbar-light .navbar-toggler {
+	color: #000;
+    border: 0;
+}
+.navbar-toggler {
+	background-color: transparent;
+    font-size: 24px;
+} 
+.navbar-light .navbar-nav .nav-link {
+	margin-right: 0;
+}
+.navbar-expand-md .navbar-nav .nav-link {
+	margin-right: 15px;
+}
+.lg-logo {
+    display: none;
+}
+/*=========== banner part start ===========*/
+.about-slid a {
+	position: relative;
+	top: -70px;
+	left: 0;
+}
+.banner-item a {
+	margin-bottom: 30px;
+}
+.banner-item {
+	padding-top: 0;
+	margin-top: 80px;
+}   
+/*=========== about part start ===========*/
+#about {
+    padding-top: 60px;
+	padding-bottom: 0;
+}    
+.about-btn {
+	margin-top: 1px;
+	margin-bottom: 40px;
+}    
+.about-btn a {
+    margin-bottom: 81px;
+}    
+/*=========== service part start ===========*/
+#service {
+	padding-bottom: 60px; 
+}
+.headding span {
+	margin-right: 5px;
+}
+/*=========== portfolio part start ===========*/
+#portfolio {
+	padding-bottom: 40px;
+}
+.counter-item {
+	padding-bottom: 40px;
+}
+.about-counter {
+	padding-bottom: 30px;
+}
+/*=========== blog part start ===========*/
+#blog {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+#contact {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.blog-content {
+	padding: 10px;
+}
+.blog-content p::after {
+	top: 50px;
+}
+.blog-content p::before {
+	top: 46px;
+}    
+    
+    
+}
+/*============================ Large devices 
+=========================================================================*/
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.project-icon {
+	float: none;
+	text-align: center;
+}
+.project-caption {
+	float: none;
+	text-align: center;
+}
+.nav-tabs .nav-link {
+	margin-bottom: 10px;
+}
+
+
+}
+
+/*============================ Extra Large devices 
+=========================================================================*/
+@media (min-width: 1200px) {
+.lg-logo {
+    display: none;
+}
+    
+}
+
+
